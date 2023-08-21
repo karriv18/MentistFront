@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "446612696205",
+    "firebase_url": "https://fil-global-246ad-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fil-global-246ad",
+    "storage_bucket": "fil-global-246ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446612696205:android:aa90ceb89952c9ffc846c4",
+        "android_client_info": {
+          "package_name": "com.filglobaldashboardmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446612696205-qov2sqa8doghe578nf923iar4rth4cko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALTgoHNloBuuMATVIbHGfVSCtpMduOUnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446612696205-qov2sqa8doghe578nf923iar4rth4cko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
